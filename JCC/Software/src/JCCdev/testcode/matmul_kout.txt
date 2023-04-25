@@ -1,0 +1,55 @@
+ Data for JOB [5621,1] offset 0
+
+ ========================   JOB MAP   ========================
+
+ Data for node: ubuntuJCC	Num slots: 4	Max slots: 0	Num procs: 4
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 0 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 5 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 10 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 15 Bound: UNBOUND
+
+ Data for node: slave5	Num slots: 4	Max slots: 0	Num procs: 4
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 1 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 6 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 11 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 16 Bound: UNBOUND
+
+ Data for node: slave6	Num slots: 4	Max slots: 0	Num procs: 4
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 2 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 7 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 12 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 17 Bound: UNBOUND
+
+ Data for node: slave7	Num slots: 4	Max slots: 0	Num procs: 4
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 3 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 8 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 13 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 18 Bound: UNBOUND
+
+ Data for node: slave8	Num slots: 4	Max slots: 0	Num procs: 4
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 4 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 9 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 14 Bound: UNBOUND
+ 	Process OMPI jobid: [5621,1] App: 0 Process rank: 19 Bound: UNBOUND
+
+ =============================================================
+Execution time: 1.346209 seconds
+Execution time: 1.347830 seconds
+Execution time: 1.349775 seconds
+Execution time: 1.351934 seconds
+Execution time: 1.351145 seconds
+Execution time: 1.352897 seconds
+Execution time: 1.354587 seconds
+Execution time: 1.356925 seconds
+Execution time: 1.360302 seconds
+Execution time: 1.359517 seconds
+Execution time: 1.361563 seconds
+Execution time: 1.364035 seconds
+Execution time: 1.366053 seconds
+Execution time: 1.368555 seconds
+Execution time: 1.370023 seconds
+Execution time: 1.367950 seconds
+Execution time: 1.372214 seconds
+Execution time: 1.373801 seconds
+Execution time: 1.376311 seconds
+Execution time: 1.233069 seconds
