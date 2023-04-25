@@ -10,7 +10,7 @@ Beowulf style cluster made with 5 Jetson 2GB development boards, a left over swi
 inexpensive 3D printed case. All of which by the end of this project will come in well below our possible competitors prices. We will also have a cybersecurity risk 
 management/mitigation plan in effect to insure that we do not add any undue risk to the school and its resources.
 
-Location of Contents:
+
 
 
 
