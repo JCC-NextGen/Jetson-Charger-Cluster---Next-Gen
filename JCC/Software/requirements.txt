@@ -1,0 +1,4 @@
+openmpi-bin
+libopenmpi-dev
+openssh-server
+lm-sensors
