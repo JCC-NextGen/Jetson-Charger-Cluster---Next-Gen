@@ -34,6 +34,7 @@ In cases where it is meaningful, the **Karslurm UI** will ask whether you want t
 ![](https://github.com/JCC-NextGen/Jetson-Charger-Cluster---Next-Gen/blob/main/JCC/Software/assets/select_nodes.png?raw=true)
 
 After this, you will get to select the mapping option for your parallel job. This affects how processes assigned to nodes (which nodes run which processes). 
+
 ![](https://github.com/JCC-NextGen/Jetson-Charger-Cluster---Next-Gen/blob/main/JCC/Software/assets/select_mapping.png?raw=true)
 
 This completes the job customization. Now, **Karslurm** will send out the executable to all nodes set to run the job and execute the job on the set nodes and processes.
