@@ -1,7 +1,7 @@
 # Jetson-Charger-Cluster---Next-Gen
 
-The Jetson Charger Cluster-Next Gen (JCC) is a hybrid team composed of Computer Engineering students: Jordan Thomas, Karson Knoll, William Bullard, Satyo Wasistho,
-Michael O’Dell and a Cybersecurity Engineer: Svetlana Freeman. The goal of this project is to create a relatively powerful and inexpensive high performance computer
+The Jetson Charger Cluster-Next Gen (JCC) is a hybrid team composed of Computer Engineering students: Jordan Thomas, William Bullard, Satyo Wasistho,
+Michael O’Dell, Karson Knoll, and Cybersecurity Engineer: Svetlana Freeman. The goal of this project is to create a relatively powerful and inexpensive high performance computer
 capable of parallel computing made from off the shelf components. The purpose of this computing machine is so that students who take CPE 412/512 have access to an up to
 date parallel computing machine that they can access on their own time, is inexpensive for the department to maintain, and allows students to experiment with node 
 control and how to optimally run their programs in a parallel computing environment. Something they do not get with the current class setup of them just using the 
